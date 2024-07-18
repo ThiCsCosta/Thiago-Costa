@@ -27,5 +27,4 @@ Sou acadêmico em Engenharia de Software, apaixonado por tecnologias | JavaScrip
   <a href = "#">
     <img src="https://img.shields.io/badge/-WhatsApp-%23333?style=for-the-badge&logo=whatsapp&logoColor=white&color=green" target="_blank">
   </a>  
-<!--   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)  -->
 </div>
